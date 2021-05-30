@@ -23,7 +23,7 @@
 
 <br><br>
 
-<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medani123)]
+<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medani123)](https://github.com/medani123/github-readme-stats)
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medani123&show_icons=true&locale=en" alt="medani123" /></p>
