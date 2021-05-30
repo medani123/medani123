@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://medani123.github.io/](https://medani123.github.io/)
+- 👨‍💻 All of my projects are available at: [https://medani123.github.io/](https://medani123.github.io/)
 
-- 📫 How to reach me **medani.utp@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Tut968hp4CRnWrBA2zVzzqlSJW4D0Ixu/view](https://drive.google.com/file/d/1Tut968hp4CRnWrBA2zVzzqlSJW4D0Ixu/view)
+- 📫 Reach me at: **medani.utp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
