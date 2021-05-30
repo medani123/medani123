@@ -23,7 +23,8 @@
 
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=medani123&show_icons=true&locale=en&layout=compact" alt="medani123" /></p>
+<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medani123)]
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medani123&show_icons=true&locale=en" alt="medani123" /></p>
 
