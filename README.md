@@ -3,13 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medani123&label=Profile%20views&color=0e75b6&style=flat" alt="medani123" /> </p>
 
-- 🔭 I’m currently working on **my backend skills**
-
-- 🌱 I’m currently learning **Node.js**
-
 - 👨‍💻 All of my projects are available at: [https://medani123.github.io/](https://medani123.github.io/)
 
 - 📫 Reach me at: **medani.utp@gmail.com**
+- <br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
