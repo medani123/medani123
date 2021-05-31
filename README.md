@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at: [https://medani123.github.io/](https://medani123.github.io/)
 
 - 📫 Reach me at: **medani.utp@gmail.com**
-- <br />
+ <br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
